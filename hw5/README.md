@@ -1,1 +1,2 @@
-
+- Decision_Tree.py: Creates decision trees. For titanic and spam, the class_label should be set to 'label', while for titanic it should be 'survived'
+- preprocessing_census.py: Preprocesses data for each dataset. You can change the dataset by modifying line 90 to make a call to the function of the dataset you want (census(), spam(), titanic()). In addition, depending on whether you're using titanic or census, you have to change the delimiters in line 13 to be "" or "?" respectively. 
