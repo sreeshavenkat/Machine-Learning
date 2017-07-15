@@ -1,0 +1,2 @@
+- hw4_q1.py: This can be run to get the values of s(*) and w(*) for question 1
+- update.py: This can be run in its current state to plot the graphs for Batch, Stochastic, and Stochastic Gradient Descent with a Decreasing Learning Rate. If you uncomment lines 86 onwards, you will be able to classify the test data
